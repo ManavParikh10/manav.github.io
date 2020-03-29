@@ -1,0 +1,104 @@
+body {
+    font-family: raleway;
+    
+     background-image: url(https://images.pexels.com/photos/255464/pexels-photo-255464.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+     background-size: cover;
+     background-attachment: fixed; 
+}
+
+.background {
+    background-color: rgba(95,158,160,0.01);
+   
+    background-size: cover;
+    /*border-bottom: black solid 1px;*/
+}
+
+hr {
+    border-width: 1px;
+    border-color: white;
+}
+
+scan {
+    text-align: center;
+    font-family: Raleway;
+    padding: 20px 10px;
+    text-decoration: none;
+    font-size: 40px;
+    color: white;
+}
+ 
+ .nav {
+    padding: 5px 5px;
+    overflow: hidden;
+  }
+  
+  .nav a {
+    float: right;
+    color: #5F9EA0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .up {
+      height: 300px;
+  }
+ 
+  
+
+  /*img {
+      height: 400px;
+      float: center;
+      width: 60%;
+      padding-left: 20%;
+      padding-right: 20%;
+      */
+
+  
+
+  .contact {
+      background-color: rgba(011,011,011,0.7);
+      margin-top: 0;
+  }
+
+  #cm {
+      font-family: raleway;
+      text-align: center;
+      font-weight: 900;
+      color: white;
+      font-size: 80px;
+      margin-top: 0;
+  }
+
+  .con {
+      text-align: center;
+      font-family: raleway;
+      color: white;
+      font-weight:500;
+      font-size:20px;
+  }
+
+  .underline {
+      text-decoration: underline;
+  }
+
+  .down {
+      background-color: black;
+      color: white;
+      font-family: raleway;
+      text-align: center;
+      font-size: 14px;
+      bottom: 0;
+      font-weight: bold;
+      padding: 4px;
+      
+  }
+
+ 
